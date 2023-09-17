@@ -1,0 +1,21 @@
+{
+    "name": "one-nord",
+    "displayName": "One Nord",
+    "description": "Combines the token colors from One Dark Pro with the editor colors from Nord",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Nord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-nord-color-theme.json"
+            }
+        ]
+    }
+}
