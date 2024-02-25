@@ -2,9 +2,25 @@
     "name": "one-nord",
     "displayName": "One Nord",
     "description": "Combines the token colors from One Dark Pro with the editor colors from Nord",
+    "publisher": "pepijn98",
     "version": "1.0.0",
+    "license": "MIT",
+    "icon": "assets/icon-128x128.png",
     "engines": {
         "vscode": "^1.82.0"
+    },
+    "homepage": "https://github.com/Pepijn98/one-nord-vscode#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Pepijn98/one-nord-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Pepijn98/one-nord-vscode/issues"
+    },
+    "author": {
+        "email": "pepijn@vdbroek.dev",
+        "name": "Pepijn van den Broek",
+        "url": "https://vdbroek.dev"
     },
     "categories": [
         "Themes"
